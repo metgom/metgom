@@ -16,7 +16,7 @@ Flask, MySQL, PostgreSQL과 Git을 활용하여 백엔드 서버 및 RestAPI 설
 
 #### 프로젝트
 - Event Collector
-  - 이벤트 데이터를 수집하고 조회하는 시스템을 AWS 환경에 구축하였습니다.
+  - 모 사의 사전과제로 이벤트 데이터를 수집하고 조회하는 시스템을 AWS 환경에 구축하였습니다.
     - https://github.com/metgom/event_collecter_api_server  
     - https://github.com/metgom/event_collecter_worker
     - https://github.com/metgom/event_collecter_bot
